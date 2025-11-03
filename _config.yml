@@ -10,7 +10,7 @@ email: doodukly1999@gmail.com
 linkedin_username: https://www.linkedin.com/in/jonggeun-yoon-a94126335/
 github_username: https://github.com/hi2242
 
-baseurl: /resume
+baseurl: ""
 
 exclude:
   - _posts/

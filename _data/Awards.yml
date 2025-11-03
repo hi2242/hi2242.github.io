@@ -1,0 +1,19 @@
+subject: Awards & Certifications
+listing-order: 4
+icon: "/assets/img/trophy.svg"
+contents:
+  - title: 인하대학교 우수 엔지니어 총장상
+    description: 탄소중립 INNOVATION ACADEMY에서 최우수 활동자로 총장상 수상
+    date: 2024. 12
+  - title: SW중심사업단장 최우수상
+    description: 탄소중립 최종발표회에서 택시 공유 앱 개발을 통해 최우수상 수상
+    date: 2024. 12
+  - title: 코드트리 알고리즘 캠프 수료증 & 코드트리 X AWS Korea 알고리즘 챌린지 수료증
+    description: 코드트리에서 주최한 파이썬 알고리즘 캠프와 AWS Korea 알고리즘 챌린지 수료
+    date: 2025. 05
+  - title: 제 4회 CO-Week Academy 수료증
+    description: 한국연구재단과 COSS에서 주최한 CO-Week Academy에서 미래자동차, 빅데이터, 인공지능 분야 수료증
+    date: 2025. 07
+  - title: Blaybus 회고 공모전 우수상 & 수료증
+    description: Blaybus에서 주최한 IT 프로젝트 회고 공모전에서 게더링(Gathering) 웹 서비스 회고를 통해 우수상 수상
+    date: 2025. 08

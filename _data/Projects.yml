@@ -5,6 +5,7 @@ contents:
   - title: "IT 초심자를 위한 팀원 모집 웹서비스, 게더링(Gathering) ([https://gathering.work/](https://gathering.work/))"
     description: 
       - "[깃허브 링크](https://github.com/Gathering-Organization/Gathering)"
+      - "[배운점과 기술적 고민들](https://github.com/Gathering-Organization/Gathering/tree/main/Gathering_fe#readme)"
       - 본 프로젝트는 IT 초심자들도 쉽게 프로젝트에 참여할 수 있도록 모집글에 지원하여 합격/불합격을 통해 참여를 유도하는 웹서비스입니다.
       - 프로젝트에서 기획, 디자인, 프론트엔드 개발을 참여했습니다.
       - 프론트엔드 개발 환경 -> Typescript, React, Vite, Tailwind CSS, Node.js
@@ -12,6 +13,7 @@ contents:
   - title: "한국인과 외국인의 문화 교류 앱 서비스, 체이닝(Chaining) ([https://m.onestore.co.kr/v2/ko-kr/app/0001002362](https://m.onestore.co.kr/v2/ko-kr/app/0001002362))"
     description: 
       - "[깃허브 링크](https://github.com/3S-CREW/Chaining)"
+      - "[경험과 시행착오](https://mountain-cobbler-da6.notion.site/2381ee3a79a280cfa433c56c53aab2ad)"
       - 본 프로젝트는 탄소중립을 실천하기 위한 대학생 택시 공유 앱 서비스입니다.
       - 프로젝트에서 기획 보조, 디자인, 크로스플랫폼 프론트엔드 개발을 참여했습니다.
       - 크로스플랫폼 프론트엔드 개발 환경 -> Kotlin, Jetpack Compose, Room, Hilt, Coroutine

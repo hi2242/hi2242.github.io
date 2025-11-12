@@ -7,6 +7,7 @@ contents:
       "![게더링 로고](/assets/img/gathering_home.svg)"
     description:
       - "**[서비스 바로가기](https://gathering.work/)**"
+      - "**[깃허브 바로가기](https://github.com/Gathering-Organization/Gathering)**"
       - "**팀 구성:** 프론트엔드 1인, 백엔드 1인"
       - "**역할:** 기획, 디자인, 프론트엔드 개발 (1인)"
       - "**주요 기술 스택:** React, TypeScript, Tailwind CSS"
@@ -48,6 +49,7 @@ contents:
       "![체이닝 로고](/assets/img/chain.png)"
     description:
       - "**[서비스 바로가기](https://m.onestore.co.kr/v2/ko-kr/app/0001002362)**"
+      - "**[깃허브 바로가기](https://github.com/3S-CREW/Chaining)**"
       - "**팀 구성:** 안드로이드 2인"
       - "**역할:** 기획, 디자인, 안드로이드 개발, Firebase 통신"
       - "**주요 기술 스택:** Kotlin, Jetpack Compose, Room, Hilt, Firebase"

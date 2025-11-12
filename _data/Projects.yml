@@ -9,7 +9,6 @@ contents:
       - 본 프로젝트는 IT 초심자들도 쉽게 프로젝트에 참여할 수 있도록 모집글에 지원하여 합격/불합격을 통해 참여를 유도하는 웹서비스입니다.
       - 프로젝트에서 기획, 디자인, 프론트엔드 개발을 참여했습니다.
       - 프론트엔드 개발 환경 -> Typescript, React, Vite, Tailwind CSS, Node.js
-    image: "![](https://github.com/user-attachments/assets/8417afd2-334e-4838-9912-75759a15786d)"
   - title: "한국인과 외국인의 문화 교류 앱 서비스, 체이닝(Chaining) ([https://m.onestore.co.kr/v2/ko-kr/app/0001002362](https://m.onestore.co.kr/v2/ko-kr/app/0001002362))"
     description: 
       - "[깃허브 링크](https://github.com/3S-CREW/Chaining)"
@@ -17,11 +16,9 @@ contents:
       - 본 프로젝트는 탄소중립을 실천하기 위한 대학생 택시 공유 앱 서비스입니다.
       - 프로젝트에서 기획 보조, 디자인, 크로스플랫폼 프론트엔드 개발을 참여했습니다.
       - 크로스플랫폼 프론트엔드 개발 환경 -> Kotlin, Jetpack Compose, Room, Hilt, Coroutine
-    image: "![](https://github.com/user-attachments/assets/af45c569-88df-472d-b03c-496af1bd01f5)"
   - title: "대학생을 위한 공유 택시 플랫폼, ZIBRO"
     description: 
       - "[깃허브 링크](https://github.com/hi2242/ZIBRO)"
       - 본 프로젝트는 IT 초심자들도 쉽게 프로젝트에 참여할 수 있도록 모집글에 지원하여 합격/불합격을 통해 참여를 유도하는 웹서비스입니다.
       - 프로젝트에서 기획, 디자인, 프론트엔드 개발을 참여했습니다.
       - 프론트엔드 환경 -> Dart, Flutter
-    image: "![](https://github.com/user-attachments/assets/a8dbf362-ca3a-4b72-a776-7db80c71f34d)"

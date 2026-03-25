@@ -1,0 +1,13 @@
+subject: 오픈소스 기여활동
+listing-order: 2
+icon: "/assets/img/flask.svg"
+contents:
+  - title: "Microsoft Github / GitHub Desktop"
+    description:
+      - "GitHub 공식 데스크톱 클라이언트 오픈소스 프로젝트 다수 기여"
+      - "**주요 기여 사항**: 버그 리포팅 및 UI/UX 개선을 위한 Pull Request 제출"
+      - "[PR [#21827](https://github.com/desktop/desktop/pull/21827)] 관련 이슈([#21735](https://github.com/desktop/desktop/issues/21735)) 해결을 위한 개선 제안"
+      - "[PR [#21821](https://github.com/desktop/desktop/pull/21821)] 관련 이슈([#21736](https://github.com/desktop/desktop/issues/21736)) 해결을 위한 개선 제안"
+      - "[PR [#21820](https://github.com/desktop/desktop/pull/21820)] 관련 이슈([#21819](https://github.com/desktop/desktop/issues/21819)) 해결을 위한 개선 제안"
+      - "[Issue [#21320](https://github.com/desktop/desktop/issues/21320), [#21828](https://github.com/desktop/desktop/issues/21828)] 안정성을 위한 버그 리포팅 및 기술적 이슈 제안"
+    date: "2025. 12 - 2026. 03 (Active)"
